@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(blue,green);
+}
+h1,h2{
+    color: yellow;
+    font-family:Yeon-Sung;
+}
+.name_of_objects{
+    color:yellowgreen;
+}
+#Identify_img{
+    color: lightgreen;
+    border-radius: 10px;
+    border: 5px double;
+    background-color:blue;
+   
+}
+#Capture_img{
+    color: yellow;
+    border-radius: 5px;
+    border: 5px dotted;
+    background-color: darkorange;
+}
+#Camera{
+    border: red;
+}
+#Object_Name
+{
+    color: red;
+}
+#Accuracy{
+    color: red;
+}
